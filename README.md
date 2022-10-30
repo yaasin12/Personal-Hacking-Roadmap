@@ -2,7 +2,7 @@
 
 OpenVPN https://tryhackme.com/room/openvpn - [👍] 
 
-Welcome https://tryhackme.com/jr/welcome - [⏳] 
+Welcome https://tryhackme.com/jr/welcome - [👍] 
 
 Intro to Researching https://tryhackme.com/room/introtoresearch - [⏳] 
 
