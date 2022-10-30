@@ -1,10 +1,10 @@
 # Level 1 - Intro - [ ] 
 
-OpenVPN https://tryhackme.com/room/openvpn - [ ] 
+OpenVPN https://tryhackme.com/room/openvpn - [👍] 
 
-Welcome https://tryhackme.com/jr/welcome - [ ] 
+Welcome https://tryhackme.com/jr/welcome - [⏳] 
 
-Intro to Researching https://tryhackme.com/room/introtoresearch - [ ] 
+Intro to Researching https://tryhackme.com/room/introtoresearch - [⏳] 
 
 The Hacker Methodology https://tryhackme.com/room/hackermethodology - [ ] 
 
